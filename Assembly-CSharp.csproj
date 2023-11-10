@@ -26,7 +26,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\Assembly-CSharp\</OutputPath>
-    <DefineConstants>UNITY_2022_3_9;UNITY_2022_3;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION;ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT;ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_OSX;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_SPATIALTRACKING;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;USE_INPUT_SYSTEM_POSE_CONTROL;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2022_3_9;UNITY_2022_3;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION;ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT;ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE;PLATFORM_ANDROID;TEXTCORE_1_0_OR_NEWER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;ENABLE_ETC_COMPRESSION;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;USE_INPUT_SYSTEM_POSE_CONTROL;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169,0649</NoWarn>
@@ -64,20 +64,18 @@
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/ReferenceUnlit.shader" />
      <None Include="Library/PackageCache/com.unity.settings-manager@2.0.1/package.json" />
      <None Include="Library/PackageCache/com.unity.modules.subsystems@1.0.0/package.json" />
-     <None Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/package.json" />
      <Folder Include="Assets/Samples/XR Interaction Toolkit" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Primitive" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
      <None Include="Library/PackageCache/com.unity.modules.jsonserialize@1.0.0/package.json" />
+     <Folder Include="Assets/AllSkyFree/Cold Night" />
      <Folder Include="Library/PackageCache/com.unity.test-framework@1.1.33" />
      <Folder Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0" />
      <Folder Include="Library/PackageCache/com.unity.xr.core-utils@2.2.3/Tests" />
      <Folder Include="Assets/XRI/Settings" />
-     <Folder Include="Library/PackageCache/com.unity.searcher@4.9.2" />
      <Folder Include="Assets/VRTemplateAssets/Models/Primitives" />
      <None Include="Library/PackageCache/com.unity.modules.screencapture@1.0.0/package.json" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/RuntimeLoaders/universalwindows/arm32" />
-     <Folder Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Tests" />
      <None Include="Library/PackageCache/com.unity.modules.cloth@1.0.0/package.json" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/NormalPreview.shader" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
@@ -85,6 +83,7 @@
      <Folder Include="Library/PackageCache/com.unity.modules.imgui@1.0.0" />
      <Folder Include="Assets/TextMesh Pro/Sprites" />
      <None Include="Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0/package.json" />
+     <Folder Include="Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials" />
      <None Include="Library/PackageCache/com.unity.inputsystem@1.7.0/package.json" />
      <None Include="Library/PackageCache/com.unity.modules.ai@1.0.0/package.json" />
      <None Include="Assets/VRTemplateAssets/Shaders/FauxBlurURP.shader" />
@@ -100,8 +99,8 @@
      <Folder Include="Assets/TextMesh Pro/Resources/Sprite Assets" />
      <Folder Include="Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Locomotion" />
+     <None Include="Assets/Fantasy Forest Environment Free Sample/StandardNoCulling.shader" />
      <None Include="Library/PackageCache/com.unity.ext.nunit@1.0.6/package.json" />
-     <Folder Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Textures/SMAA" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/DiffuseVertexColor.shader" />
      <Folder Include="Library/PackageCache/com.unity.ide.rider@3.0.24/Rider" />
      <None Include="Library/PackageCache/com.unity.feature.vr@1.0.0/package.json" />
@@ -113,26 +112,26 @@
      <Folder Include="Assets/Samples" />
      <Folder Include="Assets/XRI" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" />
-     <Folder Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Textures/BlueNoise64" />
      <Folder Include="Assets/XR" />
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/package.json" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/LineBillboard.shader" />
      <None Include="Library/PackageCache/com.unity.modules.imgui@1.0.0/package.json" />
      <Folder Include="Library/PackageCache/com.unity.visualscripting@1.9.0/Graphics" />
      <Folder Include="Assets/VRTemplateAssets/Fonts/Inter" />
+     <Folder Include="Assets/Fantasy Forest Environment Free Sample/Scenes" />
      <Folder Include="Library/PackageCache/com.unity.xr.management@4.3.3" />
      <Folder Include="Assets/XRI/Settings/Resources" />
      <None Include="Library/PackageCache/com.unity.modules.tilemap@1.0.0/package.json" />
      <Folder Include="Assets/VRTemplateAssets/Models" />
      <Folder Include="Library/PackageCache/com.unity.modules.assetbundle@1.0.0" />
-     <Folder Include="Library/PackageCache/com.unity.burst@1.8.8/Tests" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/RuntimeLoaders/universalwindows/arm64" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/VertexPicker.shader" />
-     <None Include="Library/PackageCache/com.unity.burst@1.8.8/ValidationConfig.json" />
      <None Include="Library/PackageCache/com.unity.timeline@1.7.5/package.json" />
      <Folder Include="Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/DiffuseTextureBlend.shader" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/LineBillboardMetal.shader" />
+     <Folder Include="Assets/AllSkyFree/_AllSkyFreeDemoEnvironment" />
+     <Folder Include="Assets/AllSkyFree/Overcast Low" />
      <Folder Include="Assets/VRTemplateAssets/Sprites" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/RuntimeLoaders/android" />
      <Folder Include="Assets/TextMesh Pro/Resources/Fonts &amp; Materials" />
@@ -167,8 +166,10 @@
      <Folder Include="Assets/VRTemplateAssets/Shaders" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Skybox" />
      <Folder Include="Assets/XR/Settings" />
+     <Folder Include="Assets/AllSkyFree/Cold Sunset" />
      <Folder Include="Library/PackageCache/com.unity.xr.core-utils@2.2.3" />
      <Folder Include="Assets/VRTemplateAssets/Sprites/CoachingCards" />
+     <Folder Include="Assets/Fantasy Forest Environment Free Sample/Meshes/Source" />
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/PackageConversionData.json" />
      <Folder Include="Assets/VRTemplateAssets/Prefabs/Setup" />
      <None Include="Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0/package.json" />
@@ -178,11 +179,7 @@
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/TransparentOverlay.shader" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Pointer" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/UnlitVertexColor.shader" />
-     <Folder Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Textures/FilmGrain" />
-     <Folder Include="Library/PackageCache/com.unity.burst@1.8.8" />
      <None Include="Library/PackageCache/com.unity.ide.visualstudio@2.0.18/package.json" />
-     <None Include="Library/PackageCache/com.unity.render-pipelines.core@14.0.8/ValidationConfig.json" />
-     <None Include="Library/PackageCache/com.unity.render-pipelines.core@14.0.8/package.json" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" />
      <Folder Include="Library/PackageCache/com.unity.modules.imageconversion@1.0.0" />
      <Folder Include="Library/PackageCache/com.unity.modules.terrainphysics@1.0.0" />
@@ -191,23 +188,20 @@
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/ValidationExceptions.json" />
      <Folder Include="Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0" />
      <Folder Include="Assets/VRTemplateAssets/Materials" />
-     <None Include="Library/PackageCache/com.unity.shadergraph@14.0.8/package.json" />
      <None Include="Library/PackageCache/com.unity.feature.development@1.0.1/package.json" />
      <Folder Include="Assets/TextMesh Pro" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Tools/PolyShape" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1" />
+     <Folder Include="Assets/AllSkyFree/Night MoonBurst" />
      <None Include="Library/PackageCache/com.unity.modules.unityanalytics@1.0.0/package.json" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Environment" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Cursors" />
      <Folder Include="Library/PackageCache/com.unity.modules.subsystems@1.0.0" />
      <None Include="Library/PackageCache/com.unity.ide.rider@3.0.24/package.json" />
      <None Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/package.json" />
-     <None Include="Library/PackageCache/com.unity.searcher@4.9.2/package.json" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/EdgePicker.shader" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Resources/Materials" />
      <None Include="Library/PackageCache/com.unity.modules.video@1.0.0/package.json" />
-     <None Include="Library/PackageCache/com.unity.shadergraph@14.0.8/ValidationConfig.json" />
-     <Folder Include="Library/PackageCache/com.unity.shadergraph@14.0.8/Tests" />
      <None Include="Library/PackageCache/com.unity.test-framework@1.1.33/package.json" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/VertexShader.shader" />
      <Folder Include="Library/PackageCache/com.unity.modules.unityanalytics@1.0.0" />
@@ -215,6 +209,7 @@
      <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts" />
      <Folder Include="Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime" />
      <Folder Include="Library/PackageCache/com.unity.modules.vr@1.0.0" />
+     <Folder Include="Assets/_TerrainAutoUpgrade" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/MetaQuest" />
      <Folder Include="Library/PackageCache/com.unity.testtools.codecoverage@1.2.4" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/UVEditor" />
@@ -222,16 +217,14 @@
      <None Include="Library/PackageCache/com.unity.performance.profile-analyzer@1.2.2/package.json" />
      <None Include="Assets/Samples/XR Interaction Toolkit/2.4.3/Tunneling Vignette/TunnelingVignette.shader" />
      <Folder Include="Library/PackageCache/com.unity.inputsystem@1.7.0" />
-     <Folder Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8" />
      <None Include="Library/PackageCache/com.unity.modules.particlesystem@1.0.0/package.json" />
+     <Folder Include="Assets/Fantasy Forest Environment Free Sample" />
      <Folder Include="Library/PackageCache/com.unity.modules.wind@1.0.0" />
      <Folder Include="Assets/VRTemplateAssets/Models/Anchor" />
-     <Folder Include="Library/PackageCache/com.unity.shadergraph@14.0.8" />
      <None Include="Library/PackageCache/com.unity.modules.physics2d@1.0.0/package.json" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" />
      <None Include="Assets/VRTemplateAssets/Shaders/Grid.shader" />
      <None Include="Library/PackageCache/com.unity.modules.vr@1.0.0/package.json" />
-     <Folder Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Textures/BlueNoise64/L" />
      <Folder Include="Library/PackageCache/com.unity.modules.uielements@1.0.0" />
      <Folder Include="Assets/VRTemplateAssets/Models/Controllers" />
      <None Include="Library/PackageCache/com.unity.visualscripting@1.9.0/ValidationExceptions.json" />
@@ -267,7 +260,6 @@
      <None Include="Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" />
      <Folder Include="Assets/VRTemplateAssets/Audio" />
      <Folder Include="Assets/Samples/XR Interaction Toolkit/2.4.3/Tunneling Vignette" />
-     <Folder Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Textures" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/OculusQuest" />
      <Folder Include="Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.10/Tests" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/package.json" />
@@ -283,11 +275,10 @@
      <Folder Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Tests/Tests" />
      <None Include="Library/PackageCache/com.unity.modules.physics@1.0.0/package.json" />
      <Folder Include="Library/PackageCache/com.unity.collab-proxy@2.2.0" />
-     <Folder Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Textures/2D" />
      <Folder Include="Assets/Settings/Project Configuration" />
-     <None Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/ValidationExceptions.json" />
      <Folder Include="Assets/VRTemplateAssets/Tutorial" />
      <Folder Include="Assets/TextMesh Pro/Resources/Style Sheets" />
+     <Folder Include="Assets/AllSkyFree/Space_AnotherPlanet" />
      <Folder Include="Assets/TextMesh Pro/Fonts" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/ProBuilderCG.cginc" />
      <None Include="Library/PackageCache/com.unity.modules.vehicles@1.0.0/package.json" />
@@ -299,18 +290,17 @@
      <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6" />
      <Folder Include="Assets/VRTemplateAssets/Videos" />
      <Folder Include="Library/PackageCache/com.unity.ide.rider@3.0.24" />
+     <Folder Include="Assets/Fantasy Forest Environment Free Sample/Meshes" />
      <None Include="Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0/package.json" />
      <None Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/package.json" />
      <None Include="Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" />
-     <Folder Include="Library/PackageCache/com.unity.render-pipelines.core@14.0.8" />
      <Folder Include="Assets/VRTemplateAssets/Prefabs/Blaster" />
      <Folder Include="Assets/VRTemplateAssets/Prefabs/Affordance" />
      <None Include="Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0/package.json" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Modes" />
-     <Folder Include="Library/PackageCache/com.unity.searcher@4.9.2/Tests" />
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_SDF_SSD.cginc" />
      <Folder Include="Assets/VRTemplateAssets/Scripts" />
-     <Folder Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Textures/BlueNoise16" />
+     <Folder Include="Assets/AllSkyFree" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Toolbar/Background" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Toolbar" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/ValidationConfig.json" />
@@ -325,10 +315,10 @@
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_Properties.cginc" />
      <None Include="Library/PackageCache/com.unity.xr.core-utils@2.2.3/package.json" />
      <Folder Include="Assets/Samples/XR Interaction Toolkit/2.4.3" />
-     <Folder Include="Library/PackageCache/com.unity.render-pipelines.core@14.0.8/Tests" />
      <None Include="Library/PackageCache/com.unity.xr.oculus@4.0.0/package.json" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/PointBillboard.shader" />
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_SDF Internal Editor.shader" />
+     <Folder Include="Assets/Fantasy Forest Environment Free Sample/Meshes/Prefabs" />
      <Folder Include="Library/PackageCache/com.unity.modules.umbra@1.0.0" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Particles" />
@@ -341,7 +331,6 @@
      <Folder Include="Library/PackageCache/com.unity.modules.jsonserialize@1.0.0" />
      <None Include="Library/PackageCache/com.unity.visualscripting@1.9.0/ValidationConfig.json" />
      <Folder Include="Assets/VRTemplateAssets/Fonts" />
-     <Folder Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Textures/BlueNoise256" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/RuntimeLoaders/universalwindows" />
      <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders" />
      <Folder Include="Library/PackageCache/com.unity.modules.director@1.0.0" />
@@ -353,21 +342,25 @@
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Scene" />
      <Folder Include="Library/PackageCache/com.unity.ide.visualstudio@2.0.18" />
      <None Include="Library/PackageCache/com.unity.modules.androidjni@1.0.0/package.json" />
+     <Folder Include="Assets/Fantasy Forest Environment Free Sample/Materials" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" />
      <Folder Include="Library/PackageCache/com.unity.modules.video@1.0.0" />
+     <Folder Include="Assets/AllSkyFree/Epic_GloriousPink" />
      <Folder Include="Assets/VRTemplateAssets/Sprites/Icons" />
+     <Folder Include="Assets/AllSkyFree/Cartoon Base NightSky" />
      <Folder Include="Library/PackageCache/com.unity.modules.ai@1.0.0" />
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/PackageConversionData_Assets.json" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/External" />
      <Folder Include="Assets/VRTemplateAssets/Themes" />
      <Folder Include="Assets/VRTemplateAssets/Materials/UI" />
-     <Folder Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Textures/BlueNoise16/L" />
      <None Include="Assets/VRTemplateAssets/Shaders/TexturedFresnelStandard.shader" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Upgrade" />
      <None Include="Library/PackageCache/com.unity.mathematics@1.2.6/ValidationExceptions.json" />
      <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Package Resources" />
      <Folder Include="Assets/VRTemplateAssets/Prefabs" />
+     <Folder Include="Assets/AllSkyFree/Epic_BlueSunset" />
+     <Folder Include="Assets/AllSkyFree/Deep Dusk" />
      <None Include="Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" />
      <Folder Include="Library/PackageCache/com.unity.modules.terrain@1.0.0" />
      <None Include="Library/PackageCache/com.unity.modules.animation@1.0.0/package.json" />
@@ -381,15 +374,12 @@
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Material" />
      <None Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/ValidationExceptions.json" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" />
-     <None Include="Library/PackageCache/com.unity.burst@1.8.8/Unity.Burst.Unsafe.xml" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/SelectionPicker.shader" />
      <Folder Include="Library/PackageCache/com.unity.xr.management@4.3.3/Tests/TestPackage" />
-     <None Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/ValidationConfig.json" />
      <None Include="Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0/package.json" />
      <Folder Include="Library/PackageCache/com.unity.xr.management@4.3.3/Tests" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Material/Textures" />
      <None Include="Library/PackageCache/com.unity.modules.uielements@1.0.0/package.json" />
-     <None Include="Library/PackageCache/com.unity.burst@1.8.8/package.json" />
      <Folder Include="Assets/VRTemplateAssets/Graphics" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/FaceHighlight.shader" />
      <Folder Include="Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0" />
@@ -397,7 +387,9 @@
      <None Include="Assets/TextMesh Pro/Sprites/EmojiOne.json" />
      <Folder Include="Library/PackageCache/com.unity.ugui@1.0.0" />
      <Folder Include="Library/PackageCache/com.unity.settings-manager@2.0.1/Tests" />
+     <Folder Include="Assets/AllSkyFree/Cartoon Base BlueSky" />
      <Folder Include="Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.10" />
+     <Folder Include="Assets/Fantasy Forest Environment Free Sample/Textures" />
      <Folder Include="Assets/VRTemplateAssets/Models/Marks" />
      <None Include="Library/PackageCache/com.unity.modules.ui@1.0.0/package.json" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" />
@@ -431,12 +423,6 @@
      </Reference>
      <Reference Include="UnityEngine.ClothModule">
      <HintPath>/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.ClusterInputModule">
-     <HintPath>/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.ClusterRendererModule">
-     <HintPath>/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.ContentLoadModule">
      <HintPath>/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ContentLoadModule.dll</HintPath>
@@ -596,9 +582,6 @@
      </Reference>
      <Reference Include="UnityEngine.VideoModule">
      <HintPath>/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VideoModule.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.VirtualTexturingModule">
-     <HintPath>/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.WindModule">
      <HintPath>/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.WindModule.dll</HintPath>
@@ -1049,14 +1032,6 @@
       <Project>{5971991e-9306-aa73-c502-947500ce0827}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
-      <Project>{6543f3e7-3f81-7947-6810-d441c96c08b8}</Project>
-      <Name>Unity.RenderPipelines.Core.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Burst.Editor.csproj">
-      <Project>{f4fd70c6-32e3-e1ef-3167-e66fbf6fd4cb}</Project>
-      <Name>Unity.Burst.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.ProBuilder.AddOns.Editor.csproj">
       <Project>{b39048b5-10e0-a341-1294-d25c2ebd72f7}</Project>
       <Name>Unity.ProBuilder.AddOns.Editor</Name>
@@ -1072,10 +1047,6 @@
     <ProjectReference Include="Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.csproj">
       <Project>{dbfd1f8e-525a-1328-feb1-28889212b2c5}</Project>
       <Name>Unity.XR.OpenXR.Features.OculusQuestSupport.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
-      <Project>{7b0e2531-be8d-4d42-d151-62725b999b93}</Project>
-      <Name>Unity.RenderPipelines.Core.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
       <Project>{509eb030-9ddb-476b-4d52-f246ddb4537e}</Project>
@@ -1105,10 +1076,6 @@
       <Project>{f616e8fb-a1e8-9773-702d-7f052b560286}</Project>
       <Name>Unity.Performance.Profile-Analyzer.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Core.ShaderLibrary.csproj">
-      <Project>{88164abe-15dc-9ed7-8fec-c752ba8bed84}</Project>
-      <Name>Unity.RenderPipelines.Core.ShaderLibrary</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.csproj">
       <Project>{3d9c6216-c323-1b04-0e3d-2c74ecb911a1}</Project>
       <Name>Unity.TestTools.CodeCoverage.Editor</Name>
@@ -1116,10 +1083,6 @@
     <ProjectReference Include="Unity.XR.Management.Editor.csproj">
       <Project>{0f18290c-6475-d96c-86da-546948db1c7d}</Project>
       <Name>Unity.XR.Management.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="PPv2URPConverters.csproj">
-      <Project>{81d22968-c03d-48e4-bffa-70111b606538}</Project>
-      <Name>PPv2URPConverters</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.CoreUtils.Editor.csproj">
       <Project>{ca13e3d1-7665-a920-b321-3a0db6d8c8e9}</Project>
@@ -1153,14 +1116,6 @@
       <Project>{5ce224c1-effe-bd2e-ad36-6f2be71a32e7}</Project>
       <Name>Unity.XR.Interaction.Toolkit</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Universal.Editor.csproj">
-      <Project>{0186a7d7-ed9a-cda9-f8ba-63b1ba968f86}</Project>
-      <Name>Unity.RenderPipelines.Universal.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj">
-      <Project>{7996da81-e9e0-05d0-103a-b62702c99267}</Project>
-      <Name>Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.InternalAPIEditorBridge.007.csproj">
       <Project>{ae475494-6a77-d13c-0484-9e1f87737d43}</Project>
       <Name>Unity.InternalAPIEditorBridge.007</Name>
@@ -1173,17 +1128,9 @@
       <Project>{b99a4a26-92e4-d203-c49b-f6e6455302f0}</Project>
       <Name>Unity.InternalAPIEngineBridge.007</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Universal.Runtime.csproj">
-      <Project>{5117f662-d0a1-3489-2ae3-1a90b4cb6590}</Project>
-      <Name>Unity.RenderPipelines.Universal.Runtime</Name>
-    </ProjectReference>
     <ProjectReference Include="UnityEngine.XR.LegacyInputHelpers.csproj">
       <Project>{97754c22-9242-e32a-34cf-fbf915856e6f}</Project>
       <Name>UnityEngine.XR.LegacyInputHelpers</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Burst.csproj">
-      <Project>{e55821b4-ce31-e0c8-159f-4b660881a737}</Project>
-      <Name>Unity.Burst</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
       <Project>{0858ad0b-5f98-1313-ce9c-b227cc108d8a}</Project>
@@ -1200,10 +1147,6 @@
     <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj">
       <Project>{8dac584c-5312-1b50-0e59-a7124f958bde}</Project>
       <Name>Unity.VisualScripting.Shared.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.ShaderGraph.Editor.csproj">
-      <Project>{e9ac8f76-2c91-e25e-68e7-dc2d96844eb2}</Project>
-      <Name>Unity.ShaderGraph.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Tutorials.Core.csproj">
       <Project>{ac082a28-b43e-2153-0dfa-4a70c02829fd}</Project>
@@ -1244,10 +1187,6 @@
     <ProjectReference Include="Unity.VisualScripting.Flow.Editor.csproj">
       <Project>{79948eba-e956-ae83-ab9d-d41186e3ef54}</Project>
       <Name>Unity.VisualScripting.Flow.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipeline.Universal.ShaderLibrary.csproj">
-      <Project>{3bb378dc-cd82-6e64-08c0-528f89ae73d2}</Project>
-      <Name>Unity.RenderPipeline.Universal.ShaderLibrary</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.csproj">
       <Project>{79afbacf-dd5c-ca96-0144-e127aac961e7}</Project>
@@ -1297,17 +1236,9 @@
       <Project>{abce05a2-a697-3558-5905-dd7ff37767af}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Universal.Shaders.csproj">
-      <Project>{95048d97-2c8c-aa2a-2b68-244b80a3d5f8}</Project>
-      <Name>Unity.RenderPipelines.Universal.Shaders</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
       <Project>{32a46a55-2158-1d16-4a37-8b71a716089c}</Project>
       <Name>Unity.TextMeshPro.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Searcher.Editor.csproj">
-      <Project>{fe44ba1c-e1df-9b63-9258-c6a97686737a}</Project>
-      <Name>Unity.Searcher.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.csproj">
       <Project>{56049b63-709c-0a40-f319-ce38238bc02f}</Project>
