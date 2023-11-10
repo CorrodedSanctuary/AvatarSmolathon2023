@@ -51,10 +51,12 @@
      <Compile Include="Assets/VRTemplateAssets/Scripts/Rotator.cs" />
      <Compile Include="Assets/VRTemplateAssets/Scripts/XRKnob.cs" />
      <Compile Include="Assets/VRTemplateAssets/Scripts/BooleanToggleVisualsController.cs" />
+     <Compile Include="Assets/ColliderTriger.cs" />
      <Compile Include="Assets/VRTemplateAssets/Scripts/RayAttachModifier.cs" />
      <Compile Include="Assets/VRTemplateAssets/Scripts/Callout.cs" />
      <Compile Include="Assets/VRTemplateAssets/Scripts/XRPokeFollowAffordanceFill.cs" />
      <Compile Include="Assets/VRTemplateAssets/Scripts/CalloutGazeController.cs" />
+     <Compile Include="Assets/GameManager.cs" />
      <Compile Include="Assets/VRTemplateAssets/Scripts/BezierCurve.cs" />
      <Compile Include="Assets/VRTemplateAssets/Scripts/LaunchProjectile.cs" />
      <Compile Include="Assets/VRTemplateAssets/Scripts/StepManager.cs" />
@@ -119,6 +121,7 @@
      <Folder Include="Library/PackageCache/com.unity.visualscripting@1.9.0/Graphics" />
      <Folder Include="Assets/VRTemplateAssets/Fonts/Inter" />
      <Folder Include="Assets/Fantasy Forest Environment Free Sample/Scenes" />
+     <Folder Include="Assets/_project/Sounds" />
      <Folder Include="Library/PackageCache/com.unity.xr.management@4.3.3" />
      <Folder Include="Assets/XRI/Settings/Resources" />
      <None Include="Library/PackageCache/com.unity.modules.tilemap@1.0.0/package.json" />
@@ -147,6 +150,7 @@
      <None Include="Library/PackageCache/com.unity.mathematics@1.2.6/package.json" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons" />
      <Folder Include="Library/PackageCache/com.unity.performance.profile-analyzer@1.2.2" />
+     <Folder Include="Assets/_project/Textures" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Resources/Textures" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/ScrollHighlight.shader" />
@@ -179,6 +183,7 @@
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/TransparentOverlay.shader" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Pointer" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/UnlitVertexColor.shader" />
+     <Folder Include="Assets/_project/Textures/Battle" />
      <None Include="Library/PackageCache/com.unity.ide.visualstudio@2.0.18/package.json" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" />
      <Folder Include="Library/PackageCache/com.unity.modules.imageconversion@1.0.0" />
@@ -234,6 +239,7 @@
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Upgrade/AssetIdRemap-4_0_0.json" />
      <Folder Include="Library/PackageCache/com.unity.settings-manager@2.0.1" />
+     <Folder Include="Assets/_project/Materials" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF.shader" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Resources" />
      <None Include="Library/PackageCache/com.unity.ide.visualstudio@2.0.18/ValidationExceptions.json" />
@@ -260,6 +266,7 @@
      <None Include="Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" />
      <Folder Include="Assets/VRTemplateAssets/Audio" />
      <Folder Include="Assets/Samples/XR Interaction Toolkit/2.4.3/Tunneling Vignette" />
+     <Folder Include="Assets/_project/Sounds/Party" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/OculusQuest" />
      <Folder Include="Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.10/Tests" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/package.json" />
@@ -322,6 +329,7 @@
      <Folder Include="Library/PackageCache/com.unity.modules.umbra@1.0.0" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Particles" />
+     <Folder Include="Assets/_project" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/Tests" />
      <Folder Include="Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0" />
