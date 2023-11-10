@@ -64,7 +64,9 @@
      <Folder Include="Assets" />
      <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix/Fire/Complex" />
      <Folder Include="Assets/VRTemplateAssets/Models/Environment" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/StdLib.hlsl" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/ReferenceUnlit.shader" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Debug/Waveform.shader" />
      <None Include="Library/PackageCache/com.unity.settings-manager@2.0.1/package.json" />
      <None Include="Library/PackageCache/com.unity.modules.subsystems@1.0.0/package.json" />
      <Folder Include="Assets/Samples/XR Interaction Toolkit" />
@@ -76,8 +78,10 @@
      <Folder Include="Assets/Animation" />
      <Folder Include="Library/PackageCache/com.unity.test-framework@1.1.33" />
      <Folder Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/MultiScaleVOUpsample.compute" />
      <Folder Include="Library/PackageCache/com.unity.xr.core-utils@2.2.3/Tests" />
      <Folder Include="Assets/XRI/Settings" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Textures/LensDirt" />
      <Folder Include="Assets/VRTemplateAssets/Models/Primitives" />
      <None Include="Library/PackageCache/com.unity.modules.screencapture@1.0.0/package.json" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/RuntimeLoaders/universalwindows/arm32" />
@@ -86,9 +90,11 @@
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
      <Folder Include="Assets/VRTemplateAssets/Prefabs/TutorialPlayer" />
      <Folder Include="Library/PackageCache/com.unity.modules.imgui@1.0.0" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/Distortion.hlsl" />
      <Folder Include="Assets/TextMesh Pro/Sprites" />
      <None Include="Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0/package.json" />
      <Folder Include="Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/ExposureHistogram.hlsl" />
      <None Include="Library/PackageCache/com.unity.inputsystem@1.7.0/package.json" />
      <None Include="Library/PackageCache/com.unity.modules.ai@1.0.0/package.json" />
      <None Include="Assets/VRTemplateAssets/Shaders/FauxBlurURP.shader" />
@@ -98,45 +104,61 @@
      <Folder Include="Library/PackageCache/com.unity.modules.animation@1.0.0" />
      <None Include="Library/PackageCache/com.unity.inputsystem@1.7.0/ValidationConfig.json" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/Shared" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/Texture3DLerp.compute" />
      <None Include="Library/PackageCache/com.unity.ugui@1.0.0/package.json" />
      <Folder Include="Assets/VRTemplateAssets/Prefabs/UI" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Debug" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/DeferredFog.shader" />
      <Folder Include="Library/PackageCache/com.unity.modules.xr@1.0.0" />
      <Folder Include="Assets/TextMesh Pro/Resources/Sprite Assets" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/TemporalAntialiasing.shader" />
      <Folder Include="Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator" />
      <None Include="Assets/Golden Phoenix/Flames Of The Phoenix/READ_ME.txt" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Locomotion" />
      <None Include="Assets/Fantasy Forest Environment Free Sample/StandardNoCulling.shader" />
      <None Include="Library/PackageCache/com.unity.ext.nunit@1.0.6/package.json" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/FastApproximateAntialiasing.hlsl" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/SubpixelMorphologicalAntialiasing.shader" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/DiffuseVertexColor.shader" />
      <Folder Include="Library/PackageCache/com.unity.ide.rider@3.0.24/Rider" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/Dithering.hlsl" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/Bloom.shader" />
      <None Include="Library/PackageCache/com.unity.feature.vr@1.0.0/package.json" />
      <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix/Smoke" />
      <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources" />
      <None Include="Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.10/package.json" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Tools/ShapeTool/on" />
      <None Include="Library/PackageCache/com.unity.modules.assetbundle@1.0.0/package.json" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Debug/Vectorscope.compute" />
      <Folder Include="Library/PackageCache/com.unity.inputsystem@1.7.0/Tests" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Sampling.hlsl" />
      <Folder Include="Assets/Samples" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/CopyStdFromTexArray.shader" />
      <Folder Include="Assets/XRI" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" />
      <Folder Include="Assets/XR" />
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/package.json" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Textures/Cubes" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/LineBillboard.shader" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/Lut3DBaker.compute" />
      <None Include="Library/PackageCache/com.unity.modules.imgui@1.0.0/package.json" />
      <Folder Include="Library/PackageCache/com.unity.visualscripting@1.9.0/Graphics" />
      <Folder Include="Assets/VRTemplateAssets/Fonts/Inter" />
      <Folder Include="Assets/Fantasy Forest Environment Free Sample/Scenes" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Gizmos" />
      <Folder Include="Assets/_project/Sounds" />
      <Folder Include="Library/PackageCache/com.unity.xr.management@4.3.3" />
      <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix/Smoke/Simple" />
      <Folder Include="Assets/XRI/Settings/Resources" />
      <None Include="Library/PackageCache/com.unity.modules.tilemap@1.0.0/package.json" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Debug/Waveform.compute" />
      <Folder Include="Assets/VRTemplateAssets/Models" />
      <Folder Include="Library/PackageCache/com.unity.modules.assetbundle@1.0.0" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/RuntimeLoaders/universalwindows/arm64" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/VertexPicker.shader" />
      <None Include="Library/PackageCache/com.unity.timeline@1.7.5/package.json" />
      <Folder Include="Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/API/PSSL.hlsl" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/DiffuseTextureBlend.shader" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/LineBillboardMetal.shader" />
      <Folder Include="Assets/AllSkyFree/_AllSkyFreeDemoEnvironment" />
@@ -150,6 +172,7 @@
      <Folder Include="Library/PackageCache/com.unity.visualscripting@1.9.0" />
      <None Include="Library/PackageCache/com.unity.ide.visualstudio@2.0.18/ValidationConfig.json" />
      <Folder Include="Library/PackageCache/com.unity.ext.nunit@1.0.6/net35" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Debug/LightMeter.shader" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" />
      <Folder Include="Assets/Scenes/SampleScene" />
      <None Include="Library/PackageCache/com.unity.modules.terrainphysics@1.0.0/package.json" />
@@ -163,6 +186,10 @@
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/UnlitSolidColor.shader" />
      <Folder Include="Assets/TextMesh Pro/Resources" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/AutoExposure.compute" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/MultiScaleVORender.compute" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/Texture2DLerp.shader" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/SubpixelMorphologicalAntialiasingBridge.hlsl" />
      <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix/Fire/Complex/Orange" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Anchor Materials" />
      <Folder Include="Library/PackageCache/com.unity.modules.screencapture@1.0.0" />
@@ -172,9 +199,14 @@
      <Folder Include="Assets/Materials" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/package.json" />
      <Folder Include="Library/PackageCache/com.unity.timeline@1.7.5" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/DiskKernels.hlsl" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Textures/BlueNoise256px" />
      <Folder Include="Library/PackageCache/com.unity.modules.cloth@1.0.0" />
      <Folder Include="Library/PackageCache/com.unity.feature.vr@1.0.0" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/API/D3D11.hlsl" />
      <Folder Include="Assets/VRTemplateAssets/Shaders" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/MultiScaleVODownsample2.compute" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/ScalableAO.hlsl" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Skybox" />
      <Folder Include="Assets/XR/Settings" />
      <Folder Include="Assets/AllSkyFree/Cold Sunset" />
@@ -212,6 +244,7 @@
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Cursors" />
      <Folder Include="Library/PackageCache/com.unity.modules.subsystems@1.0.0" />
      <None Include="Library/PackageCache/com.unity.ide.rider@3.0.24/package.json" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders" />
      <None Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/package.json" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/EdgePicker.shader" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Resources/Materials" />
@@ -223,6 +256,7 @@
      <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts" />
      <Folder Include="Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime" />
      <Folder Include="Library/PackageCache/com.unity.modules.vr@1.0.0" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/package.json" />
      <Folder Include="Assets/_TerrainAutoUpgrade" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/MetaQuest" />
      <Folder Include="Library/PackageCache/com.unity.testtools.codecoverage@1.2.4" />
@@ -230,20 +264,34 @@
      <Folder Include="Library/PackageCache/com.unity.modules.physics2d@1.0.0" />
      <None Include="Library/PackageCache/com.unity.performance.profile-analyzer@1.2.2/package.json" />
      <None Include="Assets/Samples/XR Interaction Toolkit/2.4.3/Tunneling Vignette/TunnelingVignette.shader" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Textures/SpectralLUTs" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/MultiScaleVO.shader" />
      <Folder Include="Library/PackageCache/com.unity.inputsystem@1.7.0" />
      <None Include="Library/PackageCache/com.unity.modules.particlesystem@1.0.0/package.json" />
      <Folder Include="Assets/Golden Phoenix" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Debug/Vectorscope.shader" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/API/D3D9.hlsl" />
      <Folder Include="Assets/Fantasy Forest Environment Free Sample" />
      <Folder Include="Library/PackageCache/com.unity.modules.wind@1.0.0" />
      <Folder Include="Assets/VRTemplateAssets/Models/Anchor" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/ScalableAO.shader" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/ACES.hlsl" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/FinalPass.shader" />
      <None Include="Library/PackageCache/com.unity.modules.physics2d@1.0.0/package.json" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Debug/Histogram.shader" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" />
      <None Include="Assets/VRTemplateAssets/Shaders/Grid.shader" />
      <None Include="Library/PackageCache/com.unity.modules.vr@1.0.0/package.json" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Debug/Histogram.compute" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/API/Switch.hlsl" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Textures" />
      <Folder Include="Library/PackageCache/com.unity.modules.uielements@1.0.0" />
      <Folder Include="Assets/VRTemplateAssets/Models/Controllers" />
      <None Include="Library/PackageCache/com.unity.visualscripting@1.9.0/ValidationExceptions.json" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/API/Metal.hlsl" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/Uber.shader" />
      <Folder Include="Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Textures/SMAA" />
      <None Include="Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" />
      <Folder Include="Library/PackageCache/com.unity.modules.particlesystem@1.0.0" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" />
@@ -253,7 +301,10 @@
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF.shader" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Resources" />
      <None Include="Library/PackageCache/com.unity.ide.visualstudio@2.0.18/ValidationExceptions.json" />
+     <Folder Include="Assets/Scenes/SampleScene_Profiles" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/Tests" />
      <Folder Include="Library/PackageCache/com.unity.xr.oculus@4.0.0" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/xRLib.hlsl" />
      <None Include="Library/PackageCache/com.unity.xr.management@4.3.3/package.json" />
      <Folder Include="Assets/VRTemplateAssets/Models/Blink" />
      <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix/Textures" />
@@ -264,6 +315,7 @@
      <None Include="Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" />
      <None Include="Library/PackageCache/com.unity.modules.umbra@1.0.0/package.json" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/SmoothingPreview.shader" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/CopyStdFromDoubleWide.shader" />
      <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures" />
      <Folder Include="Assets/VRTemplateAssets/Prefabs/Cursors" />
      <Folder Include="Library/PackageCache/com.unity.modules.tilemap@1.0.0" />
@@ -276,6 +328,7 @@
      <Folder Include="Assets/VRTemplateAssets/Sprites/UI" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" />
      <Folder Include="Assets/VRTemplateAssets/Audio" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Textures/LUTs" />
      <Folder Include="Assets/Samples/XR Interaction Toolkit/2.4.3/Tunneling Vignette" />
      <Folder Include="Assets/_project/Sounds/Party" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/OculusQuest" />
@@ -285,22 +338,29 @@
      <Folder Include="Assets/Scenes/BasicScene" />
      <Folder Include="Library/PackageCache/com.unity.modules.androidjni@1.0.0" />
      <Folder Include="Library/PackageCache/com.unity.performance.profile-analyzer@1.2.2/Tests" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Debug/Overlays.shader" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/API/PSP2.hlsl" />
      <None Include="Library/PackageCache/com.unity.inputsystem@1.7.0/ValidationExceptions.json" />
      <Folder Include="Assets/TextMesh Pro/Shaders" />
      <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Gizmos" />
      <None Include="Library/PackageCache/com.unity.modules.audio@1.0.0/package.json" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/ScreenSpaceReflections.shader" />
      <Folder Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Tests/Tests" />
      <None Include="Library/PackageCache/com.unity.modules.physics@1.0.0/package.json" />
      <Folder Include="Library/PackageCache/com.unity.collab-proxy@2.2.0" />
      <Folder Include="Assets/Settings/Project Configuration" />
      <Folder Include="Assets/Golden Phoenix/FBX Files" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/DepthOfField.hlsl" />
      <Folder Include="Assets/VRTemplateAssets/Tutorial" />
      <Folder Include="Assets/TextMesh Pro/Resources/Style Sheets" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/DiscardAlpha.shader" />
      <Folder Include="Assets/AllSkyFree/Space_AnotherPlanet" />
      <Folder Include="Assets/TextMesh Pro/Fonts" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/ProBuilderCG.cginc" />
      <None Include="Library/PackageCache/com.unity.modules.vehicles@1.0.0/package.json" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/API/OpenGL.hlsl" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/Lut2DBaker.shader" />
      <Folder Include="Assets/XR/Loaders" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/RuntimeLoaders" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Tools/ShapeTool" />
@@ -317,6 +377,7 @@
      <None Include="Assets/_project/Materials/Standard-noFog.shader" />
      <Folder Include="Assets/VRTemplateAssets/Prefabs/Affordance" />
      <None Include="Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0/package.json" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/CopyStd.shader" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Modes" />
      <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix" />
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_SDF_SSD.cginc" />
@@ -332,14 +393,18 @@
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/StandardVertexColor.shader" />
      <None Include="Library/PackageCache/com.unity.modules.xr@1.0.0/package.json" />
      <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Tests" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/MotionBlur.shader" />
      <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix/Fire" />
      <None Include="Library/PackageCache/com.unity.learn.iet-framework@3.1.3/package.json" />
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_Properties.cginc" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/MultiScaleVODownsample1.compute" />
      <None Include="Library/PackageCache/com.unity.xr.core-utils@2.2.3/package.json" />
      <Folder Include="Assets/Samples/XR Interaction Toolkit/2.4.3" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/Fog.hlsl" />
      <None Include="Library/PackageCache/com.unity.xr.oculus@4.0.0/package.json" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/PointBillboard.shader" />
      <Folder Include="Assets/Golden Phoenix/Textures" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/ExposureHistogram.compute" />
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_SDF Internal Editor.shader" />
      <Folder Include="Assets/Fantasy Forest Environment Free Sample/Meshes/Prefabs" />
      <Folder Include="Library/PackageCache/com.unity.modules.umbra@1.0.0" />
@@ -351,10 +416,13 @@
      <Folder Include="Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0" />
      <Folder Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib" />
      <None Include="Library/PackageCache/com.unity.modules.director@1.0.0/package.json" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/API" />
      <None Include="Library/PackageCache/com.unity.ide.vscode@1.2.5/ValidationExceptions.json" />
      <Folder Include="Library/PackageCache/com.unity.modules.jsonserialize@1.0.0" />
      <None Include="Library/PackageCache/com.unity.visualscripting@1.9.0/ValidationConfig.json" />
      <Folder Include="Assets/VRTemplateAssets/Fonts" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/GrainBaker.shader" />
      <Folder Include="Library/PackageCache/com.unity.xr.openxr@1.8.2/RuntimeLoaders/universalwindows" />
      <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders" />
      <Folder Include="Library/PackageCache/com.unity.modules.director@1.0.0" />
@@ -363,21 +431,29 @@
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Scripts" />
      <None Include="Library/PackageCache/com.unity.modules.terrain@1.0.0/package.json" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/GaussianDownsample.compute" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Scene" />
      <Folder Include="Library/PackageCache/com.unity.ide.visualstudio@2.0.18" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/ScreenSpaceReflections.hlsl" />
      <None Include="Library/PackageCache/com.unity.modules.androidjni@1.0.0/package.json" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/API/XboxOne.hlsl" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/Copy.shader" />
      <Folder Include="Assets/Fantasy Forest Environment Free Sample/Materials" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" />
      <Folder Include="Library/PackageCache/com.unity.modules.video@1.0.0" />
      <Folder Include="Assets/AllSkyFree/Epic_GloriousPink" />
      <Folder Include="Assets/VRTemplateAssets/Sprites/Icons" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/API/D3D12.hlsl" />
      <Folder Include="Assets/AllSkyFree/Cartoon Base NightSky" />
      <Folder Include="Library/PackageCache/com.unity.modules.ai@1.0.0" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/DepthOfField.shader" />
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/PackageConversionData_Assets.json" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/External" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins" />
      <Folder Include="Assets/VRTemplateAssets/Themes" />
      <Folder Include="Assets/VRTemplateAssets/Materials/UI" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Builtins/SubpixelMorphologicalAntialiasing.hlsl" />
      <None Include="Assets/VRTemplateAssets/Shaders/TexturedFresnelStandard.shader" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Upgrade" />
      <None Include="Library/PackageCache/com.unity.mathematics@1.2.6/ValidationExceptions.json" />
@@ -397,11 +473,13 @@
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Tools" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Material" />
      <None Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/ValidationExceptions.json" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Textures/BlueNoise64px" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/SelectionPicker.shader" />
      <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix/Materials" />
      <Folder Include="Library/PackageCache/com.unity.xr.management@4.3.3/Tests/TestPackage" />
      <None Include="Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0/package.json" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/API/Vulkan.hlsl" />
      <Folder Include="Library/PackageCache/com.unity.xr.management@4.3.3/Tests" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Material/Textures" />
      <None Include="Library/PackageCache/com.unity.modules.uielements@1.0.0/package.json" />
@@ -409,6 +487,7 @@
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/FaceHighlight.shader" />
      <Folder Include="Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0" />
      <None Include="Assets/VRTemplateAssets/Materials/Skybox/Horizontal Skybox.shader" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Colors.hlsl" />
      <None Include="Assets/TextMesh Pro/Sprites/EmojiOne.json" />
      <Folder Include="Library/PackageCache/com.unity.ugui@1.0.0" />
      <Folder Include="Library/PackageCache/com.unity.settings-manager@2.0.1/Tests" />
@@ -421,6 +500,7 @@
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/HideVertices.shader" />
      <Folder Include="Assets/VRTemplateAssets/Prefabs/Teleport" />
      <Folder Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Tests" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2" />
      <None Include="Library/PackageCache/com.unity.ide.vscode@1.2.5/package.json" />
      <Reference Include="UnityEngine">
      <HintPath>/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -1057,6 +1137,10 @@
       <Project>{5971991e-9306-aa73-c502-947500ce0827}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Postprocessing.Runtime.csproj">
+      <Project>{e7b64dc4-7ab6-5778-28f5-6a6655b9f88b}</Project>
+      <Name>Unity.Postprocessing.Runtime</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.ProBuilder.AddOns.Editor.csproj">
       <Project>{b39048b5-10e0-a341-1294-d25c2ebd72f7}</Project>
       <Name>Unity.ProBuilder.AddOns.Editor</Name>
@@ -1248,6 +1332,10 @@
     <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj">
       <Project>{d863ff8d-630d-44f4-b689-045348d8635d}</Project>
       <Name>Unity.TestTools.CodeCoverage.Editor.OpenCover.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Postprocessing.Editor.csproj">
+      <Project>{f4f130e6-1cf4-39f7-1055-a6a351dc0d1e}</Project>
+      <Name>Unity.Postprocessing.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj">
       <Project>{e56cf825-076d-ecff-d8f9-6e5dc15bd757}</Project>

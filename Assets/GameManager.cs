@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
     public void RoundEnd()
     {
         _roundAnimator.Play("RoundEnd");
+        RenderSettings.fog = false;
     }
     
 }

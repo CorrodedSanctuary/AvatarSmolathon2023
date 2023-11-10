@@ -211,8 +211,8 @@
      <Compile Include="Library/PackageCache/com.unity.probuilder@5.1.1/Editor/EditorCore/TextureRotateTool.cs" />
      <Compile Include="Library/PackageCache/com.unity.probuilder@5.1.1/Editor/EditorCore/TooltipEditor.cs" />
      <Compile Include="Library/PackageCache/com.unity.probuilder@5.1.1/Editor/EditorCore/BezierSplineEditor.cs" />
-     <Compile Include="Library/PackageCache/com.unity.probuilder@5.1.1/Editor/EditorCore/IconUtility.cs" />
      <Compile Include="Library/PackageCache/com.unity.probuilder@5.1.1/Editor/EditorCore/VertexColorPalette.cs" />
+     <Compile Include="Library/PackageCache/com.unity.probuilder@5.1.1/Editor/EditorCore/IconUtility.cs" />
      <Compile Include="Library/PackageCache/com.unity.probuilder@5.1.1/Editor/MenuActions/Object/SetTrigger.cs" />
      <Compile Include="Library/PackageCache/com.unity.probuilder@5.1.1/Editor/MenuActions/Geometry/DuplicateFaces.cs" />
      <Compile Include="Library/PackageCache/com.unity.probuilder@5.1.1/Editor/MenuActions/Object/MergeObjects.cs" />

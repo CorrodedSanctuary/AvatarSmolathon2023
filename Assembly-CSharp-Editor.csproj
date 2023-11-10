@@ -115,11 +115,13 @@
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/xdiff.en.txt" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/semantic.zh-Hans.txt" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/differences.zh-Hant.txt" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Editor/CurveGrid.shader" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/basecommands.zh-Hant.txt" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/differences.ko.txt" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/guihelp.ja.txt" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/plastic-gui.zh-Hant.txt" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/clientcommon.zh-Hans.txt" />
+     <Folder Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Editor" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/i3.es.txt" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/images.ko.txt" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/cm-help.zh-Hant.txt" />
@@ -136,8 +138,10 @@
      <Folder Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/cm-help.es.txt" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/semantic.ja.txt" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Editor/Trackball.shader" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/configurehelper.ko.txt" />
      <Folder Include="Library/PackageCache/com.unity.visualscripting@1.9.0/Editor" />
+     <None Include="Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Shaders/Editor/ConvertToLog.shader" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/binmergetool.en.txt" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/clientcommon.en.txt" />
      <None Include="Library/PackageCache/com.unity.collab-proxy@2.2.0/Lib/Editor/PlasticSCM/Localization/workspaceserver.es.txt" />

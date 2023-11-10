@@ -116,8 +116,8 @@
      <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Editor/AR/Interactors/ARGestureInteractorEditor.cs" />
      <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Editor/AR/Interactables/ARSelectionInteractableEditor.cs" />
      <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Editor/Interaction/Interactors/Visual/XRInteractorLineVisualEditor.cs" />
-     <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Editor/Inputs/Simulation/XRDeviceSimulatorSettingsEditor.cs" />
      <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Editor/Datums/Vector2AffordanceThemeDatumPropertyDrawer.cs" />
+     <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Editor/Inputs/Simulation/XRDeviceSimulatorSettingsEditor.cs" />
      <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Editor/AR/Interactables/ARRotationInteractableEditor.cs" />
      <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Editor/Interaction/Interactors/Visual/XRInteractorReticleVisualEditor.cs" />
      <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Editor/Utilities/XRInteractionEditorGUI.cs" />

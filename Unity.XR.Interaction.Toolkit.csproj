@@ -73,8 +73,8 @@
      <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Runtime/Interaction/Transformers/XRLegacyGrabTransformer.cs" />
      <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Runtime/AR/Gestures/TwoFingerDragGesture.deprecated.cs" />
      <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Runtime/UI/RegisteredUIInteractorCache.cs" />
-     <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Runtime/UI/TouchModel.cs" />
      <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Runtime/Interaction/Filtering/Poke/PokeThresholdDatum.cs" />
+     <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Runtime/UI/TouchModel.cs" />
      <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Runtime/Interaction/Interactors/XRBaseInteractor.deprecated.cs" />
      <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Runtime/AffordanceSystem/State/Data/AffordanceStateData.cs" />
      <Compile Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/Runtime/XR/XRRig.cs" />
