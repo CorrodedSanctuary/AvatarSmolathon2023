@@ -53,24 +53,27 @@
      <Compile Include="Assets/VRTemplateAssets/Scripts/BooleanToggleVisualsController.cs" />
      <Compile Include="Assets/ColliderTriger.cs" />
      <Compile Include="Assets/VRTemplateAssets/Scripts/RayAttachModifier.cs" />
+     <Compile Include="Assets/VRTemplateAssets/Scripts/BezierCurve.cs" />
+     <Compile Include="Assets/VRTemplateAssets/Scripts/LaunchProjectile.cs" />
+     <Compile Include="Assets/VRTemplateAssets/Scripts/StepManager.cs" />
      <Compile Include="Assets/VRTemplateAssets/Scripts/Callout.cs" />
      <Compile Include="Assets/VRTemplateAssets/Scripts/XRPokeFollowAffordanceFill.cs" />
      <Compile Include="Assets/VRTemplateAssets/Scripts/CalloutGazeController.cs" />
      <Compile Include="Assets/GameManager.cs" />
-     <Compile Include="Assets/VRTemplateAssets/Scripts/BezierCurve.cs" />
-     <Compile Include="Assets/VRTemplateAssets/Scripts/LaunchProjectile.cs" />
-     <Compile Include="Assets/VRTemplateAssets/Scripts/StepManager.cs" />
      <Compile Include="Assets/VRTemplateAssets/Scripts/AnchorVisuals.cs" />
      <Folder Include="Assets" />
+     <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix/Fire/Complex" />
      <Folder Include="Assets/VRTemplateAssets/Models/Environment" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/ReferenceUnlit.shader" />
      <None Include="Library/PackageCache/com.unity.settings-manager@2.0.1/package.json" />
      <None Include="Library/PackageCache/com.unity.modules.subsystems@1.0.0/package.json" />
      <Folder Include="Assets/Samples/XR Interaction Toolkit" />
+     <Folder Include="Assets/Golden Phoenix/Prefabs" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Primitive" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
      <None Include="Library/PackageCache/com.unity.modules.jsonserialize@1.0.0/package.json" />
      <Folder Include="Assets/AllSkyFree/Cold Night" />
+     <Folder Include="Assets/Animation" />
      <Folder Include="Library/PackageCache/com.unity.test-framework@1.1.33" />
      <Folder Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0" />
      <Folder Include="Library/PackageCache/com.unity.xr.core-utils@2.2.3/Tests" />
@@ -100,12 +103,14 @@
      <Folder Include="Library/PackageCache/com.unity.modules.xr@1.0.0" />
      <Folder Include="Assets/TextMesh Pro/Resources/Sprite Assets" />
      <Folder Include="Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator" />
+     <None Include="Assets/Golden Phoenix/Flames Of The Phoenix/READ_ME.txt" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Locomotion" />
      <None Include="Assets/Fantasy Forest Environment Free Sample/StandardNoCulling.shader" />
      <None Include="Library/PackageCache/com.unity.ext.nunit@1.0.6/package.json" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/DiffuseVertexColor.shader" />
      <Folder Include="Library/PackageCache/com.unity.ide.rider@3.0.24/Rider" />
      <None Include="Library/PackageCache/com.unity.feature.vr@1.0.0/package.json" />
+     <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix/Smoke" />
      <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources" />
      <None Include="Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.10/package.json" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Tools/ShapeTool/on" />
@@ -123,6 +128,7 @@
      <Folder Include="Assets/Fantasy Forest Environment Free Sample/Scenes" />
      <Folder Include="Assets/_project/Sounds" />
      <Folder Include="Library/PackageCache/com.unity.xr.management@4.3.3" />
+     <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix/Smoke/Simple" />
      <Folder Include="Assets/XRI/Settings/Resources" />
      <None Include="Library/PackageCache/com.unity.modules.tilemap@1.0.0/package.json" />
      <Folder Include="Assets/VRTemplateAssets/Models" />
@@ -157,6 +163,7 @@
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/UnlitSolidColor.shader" />
      <Folder Include="Assets/TextMesh Pro/Resources" />
+     <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix/Fire/Complex/Orange" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Anchor Materials" />
      <Folder Include="Library/PackageCache/com.unity.modules.screencapture@1.0.0" />
      <None Include="Library/PackageCache/com.unity.visualscripting@1.9.0/package.json" />
@@ -179,6 +186,7 @@
      <None Include="Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0/package.json" />
      <Folder Include="Assets/VRTemplateAssets/Prefabs/Blink" />
      <Folder Include="Library/PackageCache/com.unity.feature.development@1.0.1" />
+     <Folder Include="Assets/Golden Phoenix/Materials" />
      <Folder Include="Library/PackageCache/com.unity.ext.nunit@1.0.6" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/TransparentOverlay.shader" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Pointer" />
@@ -200,6 +208,7 @@
      <Folder Include="Assets/AllSkyFree/Night MoonBurst" />
      <None Include="Library/PackageCache/com.unity.modules.unityanalytics@1.0.0/package.json" />
      <Folder Include="Assets/VRTemplateAssets/Materials/Environment" />
+     <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix/Fire/Complex/Magic" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Cursors" />
      <Folder Include="Library/PackageCache/com.unity.modules.subsystems@1.0.0" />
      <None Include="Library/PackageCache/com.unity.ide.rider@3.0.24/package.json" />
@@ -223,6 +232,7 @@
      <None Include="Assets/Samples/XR Interaction Toolkit/2.4.3/Tunneling Vignette/TunnelingVignette.shader" />
      <Folder Include="Library/PackageCache/com.unity.inputsystem@1.7.0" />
      <None Include="Library/PackageCache/com.unity.modules.particlesystem@1.0.0/package.json" />
+     <Folder Include="Assets/Golden Phoenix" />
      <Folder Include="Assets/Fantasy Forest Environment Free Sample" />
      <Folder Include="Library/PackageCache/com.unity.modules.wind@1.0.0" />
      <Folder Include="Assets/VRTemplateAssets/Models/Anchor" />
@@ -246,6 +256,7 @@
      <Folder Include="Library/PackageCache/com.unity.xr.oculus@4.0.0" />
      <None Include="Library/PackageCache/com.unity.xr.management@4.3.3/package.json" />
      <Folder Include="Assets/VRTemplateAssets/Models/Blink" />
+     <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix/Textures" />
      <None Include="Library/PackageCache/com.unity.modules.wind@1.0.0/package.json" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/FacePicker.shader" />
@@ -283,6 +294,7 @@
      <None Include="Library/PackageCache/com.unity.modules.physics@1.0.0/package.json" />
      <Folder Include="Library/PackageCache/com.unity.collab-proxy@2.2.0" />
      <Folder Include="Assets/Settings/Project Configuration" />
+     <Folder Include="Assets/Golden Phoenix/FBX Files" />
      <Folder Include="Assets/VRTemplateAssets/Tutorial" />
      <Folder Include="Assets/TextMesh Pro/Resources/Style Sheets" />
      <Folder Include="Assets/AllSkyFree/Space_AnotherPlanet" />
@@ -302,9 +314,11 @@
      <None Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/package.json" />
      <None Include="Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" />
      <Folder Include="Assets/VRTemplateAssets/Prefabs/Blaster" />
+     <None Include="Assets/_project/Materials/Standard-noFog.shader" />
      <Folder Include="Assets/VRTemplateAssets/Prefabs/Affordance" />
      <None Include="Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0/package.json" />
      <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Icons/Modes" />
+     <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix" />
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_SDF_SSD.cginc" />
      <Folder Include="Assets/VRTemplateAssets/Scripts" />
      <Folder Include="Assets/AllSkyFree" />
@@ -318,12 +332,14 @@
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/StandardVertexColor.shader" />
      <None Include="Library/PackageCache/com.unity.modules.xr@1.0.0/package.json" />
      <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Tests" />
+     <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix/Fire" />
      <None Include="Library/PackageCache/com.unity.learn.iet-framework@3.1.3/package.json" />
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_Properties.cginc" />
      <None Include="Library/PackageCache/com.unity.xr.core-utils@2.2.3/package.json" />
      <Folder Include="Assets/Samples/XR Interaction Toolkit/2.4.3" />
      <None Include="Library/PackageCache/com.unity.xr.oculus@4.0.0/package.json" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/PointBillboard.shader" />
+     <Folder Include="Assets/Golden Phoenix/Textures" />
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_SDF Internal Editor.shader" />
      <Folder Include="Assets/Fantasy Forest Environment Free Sample/Meshes/Prefabs" />
      <Folder Include="Library/PackageCache/com.unity.modules.umbra@1.0.0" />
@@ -383,6 +399,7 @@
      <None Include="Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.0/ValidationExceptions.json" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.1.1/Content/Shader/SelectionPicker.shader" />
+     <Folder Include="Assets/Golden Phoenix/Flames Of The Phoenix/Materials" />
      <Folder Include="Library/PackageCache/com.unity.xr.management@4.3.3/Tests/TestPackage" />
      <None Include="Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0/package.json" />
      <Folder Include="Library/PackageCache/com.unity.xr.management@4.3.3/Tests" />
@@ -1204,6 +1221,10 @@
       <Project>{f0d73798-6be3-a6ac-fcdd-f2449ff9ff62}</Project>
       <Name>Unity.InputSystem</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.ProBuilder.Editor.csproj">
+      <Project>{fb6e9824-e40a-3468-c45d-098e9bc0485a}</Project>
+      <Name>Unity.ProBuilder.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.InputSystem.ForUI.csproj">
       <Project>{083c17ba-1e99-8f1c-2709-c760b24bcf1f}</Project>
       <Name>Unity.InputSystem.ForUI</Name>
@@ -1219,10 +1240,6 @@
     <ProjectReference Include="Unity.VisualScripting.SettingsProvider.Editor.csproj">
       <Project>{3255fdb0-bb31-6d7c-3447-28e18541a310}</Project>
       <Name>Unity.VisualScripting.SettingsProvider.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.ProBuilder.Editor.csproj">
-      <Project>{fb6e9824-e40a-3468-c45d-098e9bc0485a}</Project>
-      <Name>Unity.ProBuilder.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.OpenXR.Editor.csproj">
       <Project>{74de886e-7e76-0775-c320-c4fa177180fa}</Project>
